@@ -1,0 +1,19 @@
+{
+  "name": "teszt-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teszt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dINI93/teszt-dep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dINI93/teszt-dep/issues"
+  },
+  "homepage": "https://github.com/dINI93/teszt-dep#readme"
+}
